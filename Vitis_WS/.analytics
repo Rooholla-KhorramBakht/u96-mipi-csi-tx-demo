@@ -1,0 +1,26 @@
+timestamp=[2019-12-08 01:54:17], mode=WORKBENCH_START, duration=0:00:06.796, duration_ms=6796, data={}
+timestamp=[2019-12-08 01:54:28], mode=WORKBENCH_UI_INIT, duration=0:00:11.028, duration_ms=11028, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2019-12-13 18:32:12], mode=WORKBENCH_START, duration=0:00:39.491, duration_ms=39491, data={}
+timestamp=[2019-12-13 18:32:17], mode=WORKBENCH_UI_INIT, duration=0:00:04.751, duration_ms=4751, data={editors_count=0, platform_editors_count=0, projects_count=1, platform_projects_count=0, active_platform_editor=false, projects=RemoteSystemsTempFiles}
+timestamp=[2019-12-13 18:36:31], mode=PLATFORM_CREATION, duration=0:00:20.263, duration_ms=20263, data={platform_source=dsa, os=standalone, processor=psu_cortexa53, platform=null}
+timestamp=[2019-12-13 18:41:18], mode=PLATFORM_GENERATION, duration=0:01:02.501, duration_ms=62501, data={name=ultra96_platform_vitis}
+timestamp=[2020-05-17 21:02:57], mode=WORKBENCH_START, duration=0:00:11.136, duration_ms=11136, data={}
+timestamp=[2020-05-17 21:02:59], mode=WORKBENCH_UI_INIT, duration=0:00:02.550, duration_ms=2550, data={editors_count=1, platform_editors_count=1, projects_count=2, platform_projects_count=1, active_platform_editor=true, projects=RemoteSystemsTempFiles,ultra96_platform_vitis}
+timestamp=[2020-05-17 21:24:47], mode=PLATFORM_CREATION, duration=0:00:18.808, duration_ms=18808, data={platform_source=dsa, os=standalone, processor=psu_cortexa53, platform=null}
+timestamp=[2020-05-17 21:32:15], mode=APP_CREATION, duration=0:00:04.704, duration_ms=4704, data={name=csitx_mipi_project, project_type=sdk, os=standalone, processor=cortex-a53, runtime=C/C++, platform=mipi_csi_tx_test, application_type=application}
+timestamp=[2020-05-17 21:37:32], mode=PLATFORM_GENERATION, duration=0:01:11.561, duration_ms=71561, data={name=mipi_csi_tx_test}
+timestamp=[2020-05-17 21:55:11], mode=MISC, duration=0:00:02.713, duration_ms=2713, data={name=csitx_mipi_project_system, type=bif_creation}
+timestamp=[2020-05-17 22:57:15], mode=PLATFORM_GENERATION, duration=0:00:09.674, duration_ms=9674, data={name=mipi_csi_tx_test}
+timestamp=[2020-05-19 13:07:45], mode=WORKBENCH_START, duration=0:00:17.822, duration_ms=17822, data={}
+timestamp=[2020-05-19 13:07:46], mode=WORKBENCH_UI_INIT, duration=0:00:01.372, duration_ms=1372, data={editors_count=5, platform_editors_count=2, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,csitx_mipi_project,csitx_mipi_project_system,mipi_csi_tx_test}
+timestamp=[2020-05-19 16:03:18], mode=PLATFORM_GENERATION, duration=0:00:05.741, duration_ms=5741, data={name=mipi_csi_tx_test}
+timestamp=[2020-05-19 21:52:14], mode=PLATFORM_GENERATION, duration=0:00:12.138, duration_ms=12138, data={name=mipi_csi_tx_test}
+timestamp=[2020-05-19 23:23:29], mode=PLATFORM_GENERATION, duration=0:00:09.264, duration_ms=9264, data={name=mipi_csi_tx_test}
+timestamp=[2020-05-20 00:50:00], mode=WORKBENCH_START, duration=0:00:17.295, duration_ms=17295, data={}
+timestamp=[2020-05-20 00:50:02], mode=WORKBENCH_UI_INIT, duration=0:00:01.968, duration_ms=1968, data={editors_count=5, platform_editors_count=2, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,csitx_mipi_project,csitx_mipi_project_system,mipi_csi_tx_test}
+timestamp=[2020-05-20 00:54:27], mode=PLATFORM_GENERATION, duration=0:00:05.784, duration_ms=5784, data={name=mipi_csi_tx_test}
+timestamp=[2020-05-20 01:46:53], mode=WORKBENCH_START, duration=0:00:20.610, duration_ms=20610, data={}
+timestamp=[2020-05-20 01:46:56], mode=WORKBENCH_UI_INIT, duration=0:00:03.148, duration_ms=3148, data={editors_count=5, platform_editors_count=2, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,csitx_mipi_project,csitx_mipi_project_system,mipi_csi_tx_test}
+timestamp=[2020-05-20 01:48:05], mode=PLATFORM_GENERATION, duration=0:00:05.783, duration_ms=5783, data={name=mipi_csi_tx_test}
+timestamp=[2020-05-20 22:03:05], mode=WORKBENCH_START, duration=0:00:18.545, duration_ms=18545, data={}
+timestamp=[2020-05-20 22:03:09], mode=WORKBENCH_UI_INIT, duration=0:00:03.313, duration_ms=3313, data={editors_count=6, platform_editors_count=3, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,csitx_mipi_project,csitx_mipi_project_system,mipi_csi_tx_test}

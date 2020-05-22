@@ -1,0 +1,25 @@
+2020-05-20T02:28:36.97390700255-02:28:36 **** Incremental Build of configuration Debug for project csitx_mipi_project ****
+000-make all 
+000-Building file: ../src/helloworld.c
+000-Invoking: ARM v8 gcc compiler
+000-aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I/home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/standalone_domain/bspinclude/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+000-../src/helloworld.c: In function 'Csi2TxSs_IntrExample':
+000/csitx_mipi_project/src/helloworld.c188-1-1unused variable 'Exit_Count' [-Wunused-variable]1-../src/helloworld.c:188:5: warning: unused variable 'Exit_Count' [-Wunused-variable]
+000-  u8 Exit_Count = 0;
+000-     ^~~~~~~~~~
+000-Finished building: ../src/helloworld.c
+000- 
+000-Building target: csitx_mipi_project.elf
+000-Invoking: ARM v8 gcc linker
+000-aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L/home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/standalone_domain/bsplib/lib -o "csitx_mipi_project.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+000-Finished building target: csitx_mipi_project.elf
+000- 
+000-Invoking: ARM v8 Print Size
+000-aarch64-none-elf-size csitx_mipi_project.elf  |tee "csitx_mipi_project.elf.size"
+000-   text	   data	    bss	    dec	    hex	filename
+000-  52660	   2712	  21160	  76532	  12af4	csitx_mipi_project.elf
+000-Finished building: csitx_mipi_project.elf.size
+000- 
+00255-
+02:28:37 Build Finished (took 566ms)
+

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xczu3eg-sbva484-1-e" LaunchTime="1576278584">
+  <File Type="PA-TCL" Name="soc_wrapper.tcl"/>
+  <File Type="REPORTS-TCL" Name="soc_wrapper_reports.tcl"/>
+  <File Type="OPT-DCP" Name="soc_wrapper_opt.dcp"/>
+  <File Type="OPT-DRC" Name="soc_wrapper_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="soc_wrapper.hwdef"/>
+  <File Type="PWROPT-DCP" Name="soc_wrapper_pwropt.dcp"/>
+  <File Type="PLACE-DCP" Name="soc_wrapper_placed.dcp"/>
+  <File Type="PLACE-IO" Name="soc_wrapper_io_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="soc_wrapper_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="soc_wrapper_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="soc_wrapper_control_sets_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="soc_wrapper_incremental_reuse_pre_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="soc_wrapper_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="soc_wrapper_physopt.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="soc_wrapper_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="soc_wrapper_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="soc_wrapper_routed_bb.dcp"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="BG-BIT" Name="soc_wrapper.bit"/>
+  <File Type="ROUTE-BUS-SKEW" Name="soc_wrapper_bus_skew_routed.rpt"/>
+  <File Type="BITSTR-MSK" Name="soc_wrapper.msk"/>
+  <File Type="BITSTR-RBT" Name="soc_wrapper.rbt"/>
+  <File Type="BITSTR-NKY" Name="soc_wrapper.nky"/>
+  <File Type="BITSTR-BMM" Name="soc_wrapper_bd.bmm"/>
+  <File Type="PDI-FILE" Name="soc_wrapper.pdi"/>
+  <File Type="ROUTE-DRC" Name="soc_wrapper_drc_routed.rpt"/>
+  <File Type="BITSTR-MMI" Name="soc_wrapper.mmi"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="soc_wrapper_postroute_physopt.dcp"/>
+  <File Type="ROUTE-DRC-PB" Name="soc_wrapper_drc_routed.pb"/>
+  <File Type="BG-BGN" Name="soc_wrapper.bgn"/>
+  <File Type="BG-BIN" Name="soc_wrapper.bin"/>
+  <File Type="RCFI_FILE" Name="soc_wrapper.rcfi"/>
+  <File Type="RDI-RDI" Name="soc_wrapper.vdi"/>
+  <File Type="ROUTE-DRC-RPX" Name="soc_wrapper_drc_routed.rpx"/>
+  <File Type="BG-DRC" Name="soc_wrapper.drc"/>
+  <File Type="CFI_FILE" Name="soc_wrapper.cfi"/>
+  <File Type="ROUTE-PWR" Name="soc_wrapper_power_routed.rpt"/>
+  <File Type="BITSTR-SYSDEF" Name="soc_wrapper.sysdef"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="soc_wrapper_postroute_physopt_bb.dcp"/>
+  <File Type="NPI_FILE" Name="soc_wrapper.npi"/>
+  <File Type="ROUTE-PWR-RPX" Name="soc_wrapper_power_routed.rpx"/>
+  <File Type="RNPI_FILE" Name="soc_wrapper.rnpi"/>
+  <File Type="ROUTE-PWR-SUM" Name="soc_wrapper_power_summary_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="soc_wrapper.ltx"/>
+  <File Type="RBD_FILE" Name="soc_wrapper.rbd"/>
+  <File Type="ROUTE-STATUS" Name="soc_wrapper_route_status.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="soc_wrapper_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="soc_wrapper_bus_skew_routed.pb"/>
+  <File Type="ROUTE-CLK" Name="soc_wrapper_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="soc_wrapper_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-TIMING-PB" Name="soc_wrapper_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="soc_wrapper_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="soc_wrapper_route_status.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="soc_wrapper_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="soc_wrapper_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="soc_wrapper_methodology_drc_routed.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/bd/soc/soc.bd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/bd/soc/hdl/soc_wrapper.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="soc_wrapper"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design" EnableStepBool="1"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+  <BlockFileSet Type="BlockSrcs" Name="soc_proc_sys_reset_0_3"/>
+  <BlockFileSet Type="BlockSrcs" Name="soc_proc_sys_reset_0_2"/>
+  <BlockFileSet Type="BlockSrcs" Name="soc_proc_sys_reset_0_1"/>
+  <BlockFileSet Type="BlockSrcs" Name="soc_proc_sys_reset_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="soc_proc_sys_reset_0_4"/>
+  <BlockFileSet Type="BlockSrcs" Name="soc_zynq_ultra_ps_e_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="soc_clk_wiz_0_0"/>
+</GenRun>

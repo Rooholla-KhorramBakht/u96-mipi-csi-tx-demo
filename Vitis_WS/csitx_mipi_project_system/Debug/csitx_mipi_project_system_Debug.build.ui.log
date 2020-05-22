@@ -1,0 +1,10 @@
+2020-05-20T02:28:38.6729500255-02:28:38 **** Incremental Build of configuration Debug for project csitx_mipi_project_system ****
+000-make all 
+000-Generating bif file for the system project
+000-Executing command '::scw::generate_bif -xpfm /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm -domains standalone_domain -bifpath /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif' on XSCT
+000-sdcard_gen --xpfm /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm --sys_config mipi_csi_tx_test --bif /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif --bitstream /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project/_ide/bitstream/soc_wrapper.bit --elf /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project/Debug/csitx_mipi_project.elf,psu_cortexa53_0
+000-creating BOOT.BIN using /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project/_ide/bitstream/soc_wrapper.bit
+000-Running /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/bin/bootgen -arch zynqmp -image /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+00255-
+02:28:45 Build Finished (took 6s.788ms)
+

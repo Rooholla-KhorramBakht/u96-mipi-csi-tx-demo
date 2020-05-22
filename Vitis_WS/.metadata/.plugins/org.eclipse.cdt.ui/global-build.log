@@ -1,0 +1,31 @@
+Nothing to build in platform 'mipi_csi_tx_test'
+
+02:28:36 **** Incremental Build of configuration Debug for project csitx_mipi_project ****
+make all 
+Building file: ../src/helloworld.c
+Invoking: ARM v8 gcc compiler
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I/home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/standalone_domain/bspinclude/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'Csi2TxSs_IntrExample':
+../src/helloworld.c:188:5: warning: unused variable 'Exit_Count' [-Wunused-variable]
+  u8 Exit_Count = 0;
+     ^~~~~~~~~~
+Finished building: ../src/helloworld.c
+ 
+Building target: csitx_mipi_project.elf
+Invoking: ARM v8 gcc linker
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L/home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/standalone_domain/bsplib/lib -o "csitx_mipi_project.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: csitx_mipi_project.elf
+ 
+Invoking: ARM v8 Print Size
+aarch64-none-elf-size csitx_mipi_project.elf  |tee "csitx_mipi_project.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  52660	   2712	  21160	  76532	  12af4	csitx_mipi_project.elf
+Finished building: csitx_mipi_project.elf.size
+ 
+02:28:38 **** Incremental Build of configuration Debug for project csitx_mipi_project_system ****
+make all 
+Generating bif file for the system project
+Executing command '::scw::generate_bif -xpfm /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm -domains standalone_domain -bifpath /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif' on XSCT
+sdcard_gen --xpfm /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm --sys_config mipi_csi_tx_test --bif /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif --bitstream /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project/_ide/bitstream/soc_wrapper.bit --elf /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project/Debug/csitx_mipi_project.elf,psu_cortexa53_0
+creating BOOT.BIN using /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project/_ide/bitstream/soc_wrapper.bit
+Running /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/bin/bootgen -arch zynqmp -image /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN

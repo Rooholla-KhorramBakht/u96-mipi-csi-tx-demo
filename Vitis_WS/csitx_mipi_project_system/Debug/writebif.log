@@ -1,0 +1,238 @@
+TRACE::2020-05-19.21:56:10::SCWBifWriter::Found the complete platform /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm
+TRACE::2020-05-19.21:56:11::SCWBifWriter::hardware databse : soc_wrapper_7
+TRACE::2020-05-19.21:56:11::SCWBifWriter::bitstream found in the design
+TRACE::2020-05-19.21:56:11::SCWBifWriter::Found a baremetal domain, proc: psu_cortexa53_0
+TRACE::2020-05-19.21:56:11::SCWBifWriter::proc type : 
+TRACE::2020-05-19.21:56:11::SCWBifWriter::proc[0] : psu_cortexa53_0
+TRACE::2020-05-19.21:56:11::SCWBifWriter::Device type is : zynqMP
+TRACE::2020-05-19.21:56:11::SCWBifWriter::Writing BIF to file : /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif
+TRACE::2020-05-19.21:56:11::SCWBifWriter::Writing the ZynqMP baremetal bif 
+TRACE::2020-05-19.21:56:11::SCWBifWriter::System Command Ran  /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-19.21:56:11::SCWBifWriter:: Command result  
+TRACE::2020-05-19.21:56:11::SCWBifWriter::FSBL processor, command ran /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-19.21:56:11::SCWBifWriter::FSBL target processor is a53-0
+TRACE::2020-05-19.21:56:11::SCWBifWriter::Boot processor is :a53-0
+TRACE::2020-05-19.22:14:44::SCWBifWriter::Found the complete platform /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm
+TRACE::2020-05-19.22:14:44::SCWBifWriter::hardware databse : soc_wrapper_7
+TRACE::2020-05-19.22:14:44::SCWBifWriter::bitstream found in the design
+TRACE::2020-05-19.22:14:44::SCWBifWriter::Found a baremetal domain, proc: psu_cortexa53_0
+TRACE::2020-05-19.22:14:44::SCWBifWriter::proc type : 
+TRACE::2020-05-19.22:14:44::SCWBifWriter::proc[0] : psu_cortexa53_0
+TRACE::2020-05-19.22:14:44::SCWBifWriter::Device type is : zynqMP
+TRACE::2020-05-19.22:14:44::SCWBifWriter::Writing BIF to file : /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif
+TRACE::2020-05-19.22:14:44::SCWBifWriter::Writing the ZynqMP baremetal bif 
+TRACE::2020-05-19.22:14:44::SCWBifWriter::System Command Ran  /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-19.22:14:44::SCWBifWriter:: Command result  
+TRACE::2020-05-19.22:14:44::SCWBifWriter::FSBL processor, command ran /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-19.22:14:44::SCWBifWriter::FSBL target processor is a53-0
+TRACE::2020-05-19.22:14:44::SCWBifWriter::Boot processor is :a53-0
+TRACE::2020-05-19.23:23:44::SCWBifWriter::Found the complete platform /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm
+TRACE::2020-05-19.23:23:44::SCWBifWriter::hardware databse : soc_wrapper_11
+TRACE::2020-05-19.23:23:44::SCWBifWriter::bitstream found in the design
+TRACE::2020-05-19.23:23:44::SCWBifWriter::Found a baremetal domain, proc: psu_cortexa53_0
+TRACE::2020-05-19.23:23:44::SCWBifWriter::proc type : 
+TRACE::2020-05-19.23:23:44::SCWBifWriter::proc[0] : psu_cortexa53_0
+TRACE::2020-05-19.23:23:44::SCWBifWriter::Device type is : zynqMP
+TRACE::2020-05-19.23:23:44::SCWBifWriter::Writing BIF to file : /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif
+TRACE::2020-05-19.23:23:44::SCWBifWriter::Writing the ZynqMP baremetal bif 
+TRACE::2020-05-19.23:23:44::SCWBifWriter::System Command Ran  /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-19.23:23:44::SCWBifWriter:: Command result  
+TRACE::2020-05-19.23:23:44::SCWBifWriter::FSBL processor, command ran /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-19.23:23:44::SCWBifWriter::FSBL target processor is a53-0
+TRACE::2020-05-19.23:23:44::SCWBifWriter::Boot processor is :a53-0
+TRACE::2020-05-19.23:27:52::SCWBifWriter::Found the complete platform /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm
+TRACE::2020-05-19.23:27:52::SCWBifWriter::hardware databse : soc_wrapper_11
+TRACE::2020-05-19.23:27:52::SCWBifWriter::bitstream found in the design
+TRACE::2020-05-19.23:27:52::SCWBifWriter::Found a baremetal domain, proc: psu_cortexa53_0
+TRACE::2020-05-19.23:27:52::SCWBifWriter::proc type : 
+TRACE::2020-05-19.23:27:52::SCWBifWriter::proc[0] : psu_cortexa53_0
+TRACE::2020-05-19.23:27:52::SCWBifWriter::Device type is : zynqMP
+TRACE::2020-05-19.23:27:52::SCWBifWriter::Writing BIF to file : /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif
+TRACE::2020-05-19.23:27:52::SCWBifWriter::Writing the ZynqMP baremetal bif 
+TRACE::2020-05-19.23:27:52::SCWBifWriter::System Command Ran  /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-19.23:27:52::SCWBifWriter:: Command result  
+TRACE::2020-05-19.23:27:52::SCWBifWriter::FSBL processor, command ran /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-19.23:27:52::SCWBifWriter::FSBL target processor is a53-0
+TRACE::2020-05-19.23:27:52::SCWBifWriter::Boot processor is :a53-0
+TRACE::2020-05-20.00:54:43::SCWBifWriter::Found the complete platform /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm
+TRACE::2020-05-20.00:54:43::SCWBifWriter::hardware databse : soc_wrapper_2
+TRACE::2020-05-20.00:54:43::SCWBifWriter::bitstream found in the design
+TRACE::2020-05-20.00:54:43::SCWBifWriter::Found a baremetal domain, proc: psu_cortexa53_0
+TRACE::2020-05-20.00:54:43::SCWBifWriter::proc type : 
+TRACE::2020-05-20.00:54:43::SCWBifWriter::proc[0] : psu_cortexa53_0
+TRACE::2020-05-20.00:54:43::SCWBifWriter::Device type is : zynqMP
+TRACE::2020-05-20.00:54:43::SCWBifWriter::Writing BIF to file : /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif
+TRACE::2020-05-20.00:54:43::SCWBifWriter::Writing the ZynqMP baremetal bif 
+TRACE::2020-05-20.00:54:43::SCWBifWriter::System Command Ran  /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.00:54:43::SCWBifWriter:: Command result  
+TRACE::2020-05-20.00:54:43::SCWBifWriter::FSBL processor, command ran /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.00:54:43::SCWBifWriter::FSBL target processor is a53-0
+TRACE::2020-05-20.00:54:43::SCWBifWriter::Boot processor is :a53-0
+TRACE::2020-05-20.01:01:22::SCWBifWriter::Found the complete platform /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm
+TRACE::2020-05-20.01:01:22::SCWBifWriter::hardware databse : soc_wrapper_2
+TRACE::2020-05-20.01:01:22::SCWBifWriter::bitstream found in the design
+TRACE::2020-05-20.01:01:22::SCWBifWriter::Found a baremetal domain, proc: psu_cortexa53_0
+TRACE::2020-05-20.01:01:22::SCWBifWriter::proc type : 
+TRACE::2020-05-20.01:01:22::SCWBifWriter::proc[0] : psu_cortexa53_0
+TRACE::2020-05-20.01:01:22::SCWBifWriter::Device type is : zynqMP
+TRACE::2020-05-20.01:01:22::SCWBifWriter::Writing BIF to file : /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif
+TRACE::2020-05-20.01:01:22::SCWBifWriter::Writing the ZynqMP baremetal bif 
+TRACE::2020-05-20.01:01:22::SCWBifWriter::System Command Ran  /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.01:01:22::SCWBifWriter:: Command result  
+TRACE::2020-05-20.01:01:22::SCWBifWriter::FSBL processor, command ran /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.01:01:22::SCWBifWriter::FSBL target processor is a53-0
+TRACE::2020-05-20.01:01:22::SCWBifWriter::Boot processor is :a53-0
+TRACE::2020-05-20.01:05:47::SCWBifWriter::Found the complete platform /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm
+TRACE::2020-05-20.01:05:47::SCWBifWriter::hardware databse : soc_wrapper_2
+TRACE::2020-05-20.01:05:47::SCWBifWriter::bitstream found in the design
+TRACE::2020-05-20.01:05:47::SCWBifWriter::Found a baremetal domain, proc: psu_cortexa53_0
+TRACE::2020-05-20.01:05:47::SCWBifWriter::proc type : 
+TRACE::2020-05-20.01:05:47::SCWBifWriter::proc[0] : psu_cortexa53_0
+TRACE::2020-05-20.01:05:47::SCWBifWriter::Device type is : zynqMP
+TRACE::2020-05-20.01:05:47::SCWBifWriter::Writing BIF to file : /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif
+TRACE::2020-05-20.01:05:47::SCWBifWriter::Writing the ZynqMP baremetal bif 
+TRACE::2020-05-20.01:05:47::SCWBifWriter::System Command Ran  /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.01:05:47::SCWBifWriter:: Command result  
+TRACE::2020-05-20.01:05:47::SCWBifWriter::FSBL processor, command ran /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.01:05:47::SCWBifWriter::FSBL target processor is a53-0
+TRACE::2020-05-20.01:05:47::SCWBifWriter::Boot processor is :a53-0
+TRACE::2020-05-20.01:09:53::SCWBifWriter::Found the complete platform /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm
+TRACE::2020-05-20.01:09:53::SCWBifWriter::hardware databse : soc_wrapper_2
+TRACE::2020-05-20.01:09:53::SCWBifWriter::bitstream found in the design
+TRACE::2020-05-20.01:09:53::SCWBifWriter::Found a baremetal domain, proc: psu_cortexa53_0
+TRACE::2020-05-20.01:09:53::SCWBifWriter::proc type : 
+TRACE::2020-05-20.01:09:53::SCWBifWriter::proc[0] : psu_cortexa53_0
+TRACE::2020-05-20.01:09:53::SCWBifWriter::Device type is : zynqMP
+TRACE::2020-05-20.01:09:53::SCWBifWriter::Writing BIF to file : /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif
+TRACE::2020-05-20.01:09:53::SCWBifWriter::Writing the ZynqMP baremetal bif 
+TRACE::2020-05-20.01:09:53::SCWBifWriter::System Command Ran  /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.01:09:53::SCWBifWriter:: Command result  
+TRACE::2020-05-20.01:09:53::SCWBifWriter::FSBL processor, command ran /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.01:09:53::SCWBifWriter::FSBL target processor is a53-0
+TRACE::2020-05-20.01:09:53::SCWBifWriter::Boot processor is :a53-0
+TRACE::2020-05-20.01:48:22::SCWBifWriter::Found the complete platform /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm
+TRACE::2020-05-20.01:48:22::SCWBifWriter::hardware databse : soc_wrapper_2
+TRACE::2020-05-20.01:48:22::SCWBifWriter::bitstream found in the design
+TRACE::2020-05-20.01:48:22::SCWBifWriter::Found a baremetal domain, proc: psu_cortexa53_0
+TRACE::2020-05-20.01:48:22::SCWBifWriter::proc type : 
+TRACE::2020-05-20.01:48:22::SCWBifWriter::proc[0] : psu_cortexa53_0
+TRACE::2020-05-20.01:48:22::SCWBifWriter::Device type is : zynqMP
+TRACE::2020-05-20.01:48:22::SCWBifWriter::Writing BIF to file : /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif
+TRACE::2020-05-20.01:48:22::SCWBifWriter::Writing the ZynqMP baremetal bif 
+TRACE::2020-05-20.01:48:22::SCWBifWriter::System Command Ran  /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.01:48:22::SCWBifWriter:: Command result  
+TRACE::2020-05-20.01:48:22::SCWBifWriter::FSBL processor, command ran /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.01:48:22::SCWBifWriter::FSBL target processor is a53-0
+TRACE::2020-05-20.01:48:22::SCWBifWriter::Boot processor is :a53-0
+TRACE::2020-05-20.01:49:47::SCWBifWriter::Found the complete platform /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm
+TRACE::2020-05-20.01:49:47::SCWBifWriter::hardware databse : soc_wrapper_2
+TRACE::2020-05-20.01:49:47::SCWBifWriter::bitstream found in the design
+TRACE::2020-05-20.01:49:47::SCWBifWriter::Found a baremetal domain, proc: psu_cortexa53_0
+TRACE::2020-05-20.01:49:47::SCWBifWriter::proc type : 
+TRACE::2020-05-20.01:49:47::SCWBifWriter::proc[0] : psu_cortexa53_0
+TRACE::2020-05-20.01:49:47::SCWBifWriter::Device type is : zynqMP
+TRACE::2020-05-20.01:49:47::SCWBifWriter::Writing BIF to file : /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif
+TRACE::2020-05-20.01:49:47::SCWBifWriter::Writing the ZynqMP baremetal bif 
+TRACE::2020-05-20.01:49:47::SCWBifWriter::System Command Ran  /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.01:49:47::SCWBifWriter:: Command result  
+TRACE::2020-05-20.01:49:47::SCWBifWriter::FSBL processor, command ran /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.01:49:47::SCWBifWriter::FSBL target processor is a53-0
+TRACE::2020-05-20.01:49:47::SCWBifWriter::Boot processor is :a53-0
+TRACE::2020-05-20.02:11:03::SCWBifWriter::Found the complete platform /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm
+TRACE::2020-05-20.02:11:03::SCWBifWriter::hardware databse : soc_wrapper_2
+TRACE::2020-05-20.02:11:03::SCWBifWriter::bitstream found in the design
+TRACE::2020-05-20.02:11:03::SCWBifWriter::Found a baremetal domain, proc: psu_cortexa53_0
+TRACE::2020-05-20.02:11:03::SCWBifWriter::proc type : 
+TRACE::2020-05-20.02:11:03::SCWBifWriter::proc[0] : psu_cortexa53_0
+TRACE::2020-05-20.02:11:03::SCWBifWriter::Device type is : zynqMP
+TRACE::2020-05-20.02:11:03::SCWBifWriter::Writing BIF to file : /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif
+TRACE::2020-05-20.02:11:03::SCWBifWriter::Writing the ZynqMP baremetal bif 
+TRACE::2020-05-20.02:11:03::SCWBifWriter::System Command Ran  /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.02:11:03::SCWBifWriter:: Command result  
+TRACE::2020-05-20.02:11:03::SCWBifWriter::FSBL processor, command ran /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.02:11:03::SCWBifWriter::FSBL target processor is a53-0
+TRACE::2020-05-20.02:11:03::SCWBifWriter::Boot processor is :a53-0
+TRACE::2020-05-20.02:15:28::SCWBifWriter::Found the complete platform /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm
+TRACE::2020-05-20.02:15:28::SCWBifWriter::hardware databse : soc_wrapper_2
+TRACE::2020-05-20.02:15:28::SCWBifWriter::bitstream found in the design
+TRACE::2020-05-20.02:15:28::SCWBifWriter::Found a baremetal domain, proc: psu_cortexa53_0
+TRACE::2020-05-20.02:15:28::SCWBifWriter::proc type : 
+TRACE::2020-05-20.02:15:28::SCWBifWriter::proc[0] : psu_cortexa53_0
+TRACE::2020-05-20.02:15:28::SCWBifWriter::Device type is : zynqMP
+TRACE::2020-05-20.02:15:28::SCWBifWriter::Writing BIF to file : /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif
+TRACE::2020-05-20.02:15:28::SCWBifWriter::Writing the ZynqMP baremetal bif 
+TRACE::2020-05-20.02:15:28::SCWBifWriter::System Command Ran  /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.02:15:28::SCWBifWriter:: Command result  
+TRACE::2020-05-20.02:15:28::SCWBifWriter::FSBL processor, command ran /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.02:15:28::SCWBifWriter::FSBL target processor is a53-0
+TRACE::2020-05-20.02:15:28::SCWBifWriter::Boot processor is :a53-0
+TRACE::2020-05-20.02:17:13::SCWBifWriter::Found the complete platform /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm
+TRACE::2020-05-20.02:17:14::SCWBifWriter::hardware databse : soc_wrapper_2
+TRACE::2020-05-20.02:17:14::SCWBifWriter::bitstream found in the design
+TRACE::2020-05-20.02:17:14::SCWBifWriter::Found a baremetal domain, proc: psu_cortexa53_0
+TRACE::2020-05-20.02:17:14::SCWBifWriter::proc type : 
+TRACE::2020-05-20.02:17:14::SCWBifWriter::proc[0] : psu_cortexa53_0
+TRACE::2020-05-20.02:17:14::SCWBifWriter::Device type is : zynqMP
+TRACE::2020-05-20.02:17:14::SCWBifWriter::Writing BIF to file : /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif
+TRACE::2020-05-20.02:17:14::SCWBifWriter::Writing the ZynqMP baremetal bif 
+TRACE::2020-05-20.02:17:14::SCWBifWriter::System Command Ran  /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.02:17:14::SCWBifWriter:: Command result  
+TRACE::2020-05-20.02:17:14::SCWBifWriter::FSBL processor, command ran /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.02:17:14::SCWBifWriter::FSBL target processor is a53-0
+TRACE::2020-05-20.02:17:14::SCWBifWriter::Boot processor is :a53-0
+TRACE::2020-05-20.02:19:53::SCWBifWriter::Found the complete platform /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm
+TRACE::2020-05-20.02:19:53::SCWBifWriter::hardware databse : soc_wrapper_2
+TRACE::2020-05-20.02:19:53::SCWBifWriter::bitstream found in the design
+TRACE::2020-05-20.02:19:53::SCWBifWriter::Found a baremetal domain, proc: psu_cortexa53_0
+TRACE::2020-05-20.02:19:53::SCWBifWriter::proc type : 
+TRACE::2020-05-20.02:19:53::SCWBifWriter::proc[0] : psu_cortexa53_0
+TRACE::2020-05-20.02:19:53::SCWBifWriter::Device type is : zynqMP
+TRACE::2020-05-20.02:19:53::SCWBifWriter::Writing BIF to file : /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif
+TRACE::2020-05-20.02:19:53::SCWBifWriter::Writing the ZynqMP baremetal bif 
+TRACE::2020-05-20.02:19:53::SCWBifWriter::System Command Ran  /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.02:19:53::SCWBifWriter:: Command result  
+TRACE::2020-05-20.02:19:53::SCWBifWriter::FSBL processor, command ran /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.02:19:53::SCWBifWriter::FSBL target processor is a53-0
+TRACE::2020-05-20.02:19:53::SCWBifWriter::Boot processor is :a53-0
+TRACE::2020-05-20.02:22:57::SCWBifWriter::Found the complete platform /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm
+TRACE::2020-05-20.02:22:57::SCWBifWriter::hardware databse : soc_wrapper_2
+TRACE::2020-05-20.02:22:57::SCWBifWriter::bitstream found in the design
+TRACE::2020-05-20.02:22:57::SCWBifWriter::Found a baremetal domain, proc: psu_cortexa53_0
+TRACE::2020-05-20.02:22:57::SCWBifWriter::proc type : 
+TRACE::2020-05-20.02:22:57::SCWBifWriter::proc[0] : psu_cortexa53_0
+TRACE::2020-05-20.02:22:57::SCWBifWriter::Device type is : zynqMP
+TRACE::2020-05-20.02:22:57::SCWBifWriter::Writing BIF to file : /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif
+TRACE::2020-05-20.02:22:57::SCWBifWriter::Writing the ZynqMP baremetal bif 
+TRACE::2020-05-20.02:22:57::SCWBifWriter::System Command Ran  /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.02:22:57::SCWBifWriter:: Command result  
+TRACE::2020-05-20.02:22:57::SCWBifWriter::FSBL processor, command ran /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.02:22:57::SCWBifWriter::FSBL target processor is a53-0
+TRACE::2020-05-20.02:22:57::SCWBifWriter::Boot processor is :a53-0
+TRACE::2020-05-20.02:25:58::SCWBifWriter::Found the complete platform /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm
+TRACE::2020-05-20.02:25:58::SCWBifWriter::hardware databse : soc_wrapper_2
+TRACE::2020-05-20.02:25:58::SCWBifWriter::bitstream found in the design
+TRACE::2020-05-20.02:25:58::SCWBifWriter::Found a baremetal domain, proc: psu_cortexa53_0
+TRACE::2020-05-20.02:25:58::SCWBifWriter::proc type : 
+TRACE::2020-05-20.02:25:58::SCWBifWriter::proc[0] : psu_cortexa53_0
+TRACE::2020-05-20.02:25:58::SCWBifWriter::Device type is : zynqMP
+TRACE::2020-05-20.02:25:58::SCWBifWriter::Writing BIF to file : /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif
+TRACE::2020-05-20.02:25:58::SCWBifWriter::Writing the ZynqMP baremetal bif 
+TRACE::2020-05-20.02:25:58::SCWBifWriter::System Command Ran  /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.02:25:58::SCWBifWriter:: Command result  
+TRACE::2020-05-20.02:25:58::SCWBifWriter::FSBL processor, command ran /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.02:25:58::SCWBifWriter::FSBL target processor is a53-0
+TRACE::2020-05-20.02:25:58::SCWBifWriter::Boot processor is :a53-0
+TRACE::2020-05-20.02:28:40::SCWBifWriter::Found the complete platform /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/mipi_csi_tx_test.xpfm
+TRACE::2020-05-20.02:28:40::SCWBifWriter::hardware databse : soc_wrapper_2
+TRACE::2020-05-20.02:28:40::SCWBifWriter::bitstream found in the design
+TRACE::2020-05-20.02:28:40::SCWBifWriter::Found a baremetal domain, proc: psu_cortexa53_0
+TRACE::2020-05-20.02:28:40::SCWBifWriter::proc type : 
+TRACE::2020-05-20.02:28:40::SCWBifWriter::proc[0] : psu_cortexa53_0
+TRACE::2020-05-20.02:28:40::SCWBifWriter::Device type is : zynqMP
+TRACE::2020-05-20.02:28:40::SCWBifWriter::Writing BIF to file : /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project_system/Debug/system.bif
+TRACE::2020-05-20.02:28:40::SCWBifWriter::Writing the ZynqMP baremetal bif 
+TRACE::2020-05-20.02:28:40::SCWBifWriter::System Command Ran  /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.02:28:40::SCWBifWriter:: Command result  
+TRACE::2020-05-20.02:28:40::SCWBifWriter::FSBL processor, command ran /home/rouholla/myData/apps_install_path/xilinx/Vitis/2019.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-readelf -A  /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+TRACE::2020-05-20.02:28:40::SCWBifWriter::FSBL target processor is a53-0
+TRACE::2020-05-20.02:28:40::SCWBifWriter::Boot processor is :a53-0

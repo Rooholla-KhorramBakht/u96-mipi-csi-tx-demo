@@ -1,0 +1,12 @@
+/* /tmp/bootgen_csitx_mipi_project_system2572290164745763893/sd_card_temp/boot.bif */
+/* Command to create bitstream .bin file:       */
+/*   bootgen -image <bif_file> -split bin -w    */
+/* Command to create BOOT.BIN file:             */
+/*   bootgen -arch zynqmp -image <bif_file> -w -o i BOOT.BIN */
+/*mipi_csi_tx_test*/
+the_ROM_image:
+{
+ [bootloader, destination_cpu=a53-0] /home/rouholla/myData/zynq_projects/Vitis_Projects/mipi_csi_tx_test/export/mipi_csi_tx_test/sw/mipi_csi_tx_test/boot/fsbl.elf
+ [destination_device=pl] /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project/_ide/bitstream/soc_wrapper.bit
+ [destination_cpu=a53-0, exception_level=el-3] /home/rouholla/myData/zynq_projects/Vitis_Projects/csitx_mipi_project/Debug/csitx_mipi_project.elf
+}

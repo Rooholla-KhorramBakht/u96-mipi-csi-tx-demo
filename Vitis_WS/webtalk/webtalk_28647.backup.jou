@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2 (64-bit)
+# SW Build 2700185 on Thu Oct 24 18:45:48 MDT 2019
+# 
+# Start of session at: Sat Dec 14 11:08:37 2019
+# Process ID: 28647
+# Current directory: /home/rouholla/myData/zynq_projects/Vitis_Projects/webtalk
+# Command line: wbtcv -mode batch -source vitis_webtalk.tcl
+# Log file: /home/rouholla/myData/zynq_projects/Vitis_Projects/webtalk/webtalk.log
+# Journal file: /home/rouholla/myData/zynq_projects/Vitis_Projects/webtalk/webtalk.jou
+#-----------------------------------------------------------
+source vitis_webtalk.tcl

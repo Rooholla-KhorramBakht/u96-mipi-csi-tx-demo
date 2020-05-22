@@ -1,0 +1,8 @@
+-M
+microblaze-fdt
+-device
+loader,file=<mipi_csi_tx_test/standalone_domain/qemu/pmufw.elf>
+-machine-path
+.
+-display
+none
